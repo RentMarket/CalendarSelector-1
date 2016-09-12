@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="calendar_item_order_day_size">10sp</dimen>
+    <dimen name="calendar_item_nonorder_day_size">12sp</dimen>
+</resources>
